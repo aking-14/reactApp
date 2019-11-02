@@ -1,1 +1,2 @@
 This is a repo to help learn react!
+Two ways to start git repo: git init or git clone, clone is easier
